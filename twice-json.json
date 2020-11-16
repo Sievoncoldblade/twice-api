@@ -43,13 +43,13 @@
     },
     {
         "id": "8",
-        "firstname": "Son Chaeyoung",
+        "name": "Son Chaeyoung",
         "birthday": "April 23, 1999",
         "img": "https://kpopping.com/uploads/documents/d1/1/encyclopedia_body_artist/first_Chaeyoung350x600.png.keep.fff.webp"
     },
     {
         "id": "9",
-        "firstname": "Chou Tzuyu",
+        "name": "Chou Tzuyu",
         "birthday": "June 14, 1999",
         "img": "https://kpopping.com/uploads/documents/a5/2/encyclopedia_body_artist/first_TzuyuFullBody350x600.png.keep.fff.webp"
     }
